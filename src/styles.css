@@ -1,0 +1,17 @@
+.App {
+  font-family: sans-serif;
+}
+
+.breadcrumb-wrapper {
+  background-color: #eaeaea;
+}
+
+.menu-list {
+  display: block;
+  margin-left: 20px;
+}
+.cursor-pointer {
+  text-decoration: underline;
+  list-style-type: disc;
+  cursor: pointer;
+}
